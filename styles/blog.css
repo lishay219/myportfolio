@@ -1,3 +1,10 @@
 body{
+    font-family: heebo , sans-serif;
+    background-color:#ffffff;
+    color: #21243D;
+}
+nav{
+    display: flex;
+    justify-content: flex-end;
     
 }
