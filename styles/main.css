@@ -250,8 +250,6 @@ hr{
 
     /* Footer Section Start */
 footer{
-    width: 1152px;
-    height: 182px;
     margin: auto;
     display: flex;
     align-items: center;
