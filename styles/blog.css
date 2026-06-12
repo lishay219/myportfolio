@@ -3,7 +3,6 @@
     margin: 0;
     padding: 0;
 }
-
 body {
     font-family: 'Heebo', sans-serif;
     color: #21243D;
@@ -22,7 +21,6 @@ header.container {
     display: flex;
     justify-content: flex-end;
 }
-
 .navbar {
     display: flex;
     gap: 35px;
@@ -38,7 +36,6 @@ header.container {
 .navbar a:hover{
      color: #FF6464; 
     transition: color 0.2s ease; 
-}
 }
 
 .navbar a.currentpage {

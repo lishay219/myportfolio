@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@100..900&display=swap');
 *{
     padding: o;
     margin: 0;
@@ -11,6 +11,8 @@ color: #21243D;
 .container{
     width: 964px;
     margin: 0 auto;
+    margin-left: 235PX;
+    margin-right: 235PX;
     padding: 0 20;
 }
 .nav-container{
@@ -80,38 +82,25 @@ background-color: #142850;
     font-weight: 900;
     font-size: 18px;
 }
-
-
-hr{
-    margin-bottom: 20px;
-}
-
-    /* Features Section END */
-
-    /* Footer Section Start */
 footer{
-    margin: auto;
+  margin-top: 110px;
+  align-items: center;
+  justify-content: center;
+}
+.main-icons{
     display: flex;
-    align-items: center;
     justify-content: center;
+    gap: 30px;
 }
-footer .icon-main{
-    width: 232px;
-    height: 32px;
-    align-items: center;
-}
-footer .icons{
+.icons{
     width: 30px;
-    height: 30px;
-    padding-left: 35px;
-    margin-top: 132px;
 }
 .copy{
+    align-items: center;
     display: flex;
     justify-content: center;
-    align-items: center;
-    margin-left: 35px;
-    margin-top: 30px;
-    margin-bottom: 30px;
+    font-size: 12px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+
 }
-    /* Footer Section END *
