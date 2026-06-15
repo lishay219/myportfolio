@@ -87,20 +87,24 @@ header{
     margin-top: 27px;
 }
 footer{
- margin-top: 110px;
+ margin-top: 27px;
 }
 .main-icons{
     justify-content: center;
     display: flex;
-    gap: 30px;
+    gap: 35px;
+}
+.icons{
+    margin-top: 51px;
 }
 .copy{
+      margin-top: 26px;
     align-items: center;
     display: flex;
     justify-content: center;
-    font-size: 12px;
-    margin-top: 20px;
-    margin-bottom: 50px;
+    margin-bottom: 54px;
+    font-size: 14px;
+    font-weight:400 ;
 }
 
 

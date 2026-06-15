@@ -52,7 +52,7 @@ header{
 .download{
     color: #FFFFFF;
     background: #FF6464;
-    padding: 17px 20px;
+    padding: 9px 21px;
     font-size: 20px;
     font-weight: 500;
     margin-top: 38px;
@@ -60,11 +60,8 @@ header{
     border: 1px solid #FF6464;
     cursor: pointer;
 }
-.download:active{
+.download:hover{
     background-color: #e04e4e;
-    transform: scale(0.95); 
-     box-shadow: inset 0px 4px 8px rgba(0, 0, 0, 0.2);
-    
 }
 .bg-blue{
     background-color: #EDF7FA;
@@ -196,7 +193,7 @@ header{
     margin-top: 83px;
     display: flex;
     justify-content: center;
-    gap: 30px;
+    gap: 35px;
     
 }
 .icons{
