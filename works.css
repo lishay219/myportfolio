@@ -57,7 +57,6 @@ header{
     margin-top: 25px;
 }
 .content{
-    margin-left: 18px;
     margin-top: 15px;
 }
 .content h2{
@@ -79,6 +78,9 @@ background-color: #142850;
     border-radius: 16px;
     font-weight: 900;
     font-size: 18px;
+}
+.ctg{
+ color: #8695A4;
 }
 footer{
   margin-top: 110px;
