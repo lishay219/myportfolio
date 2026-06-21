@@ -7,10 +7,6 @@ body{
     font-family: 'heebo', sans-serif;
     color: #21243D;
 }
-.nav-container{
-    margin: 0px auto;
-    width: 900px;
-}
 header{
     padding: 27px 0px;
 }
@@ -30,14 +26,14 @@ header{
     color: #FF6464;
 }
 .container{
-    width: 900px;
+    width: 856px;
     margin: 0 auto;
-    margin-top: 110px;
 }
 .main-section{
     display: flex;
     justify-content: space-between;
     gap: 106px;
+    margin-top: 158px;
 }
 .john{
      font-size: 44px;
@@ -54,7 +50,7 @@ header{
     background: #FF6464;
     padding: 17px 21px;
     font-size: 20px;
-    font-weight: 500;
+    font-weight: 600;
     margin-top: 38px;
     border-radius: 2px;
     border: 1px solid #FF6464;
